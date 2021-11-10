@@ -7,24 +7,24 @@ My ebay-dl.py file is programmed with python to download 6 key pieces of informa
 To run the code for any item on ebay, use the following command in the ebay-dl.py terminal to get a JSON file of information for the chosen item:
 
 ```
-python3 ebay_dl.py 'item_name' --num_pages=10
+python3 ebay-dl.py 'item_name' --num_pages=10
 ```
 The code I used to download `kettle.json` :
 
 ```
-python3 ebay_dl.py 'kettle' --num_pages=10
+python3 ebay-dl.py 'kettle' --num_pages=10
 ```
 
 The code I used to download `sunglasses.json` :
 
 ```
-python3 ebay_dl.py 'sunglasses' --num_pages=10
+python3 ebay-dl.py 'sunglasses' --num_pages=10
 ```
 
 The code I used to download `golf balls.json` :
 
 ```
-python3 ebay_dl.py 'golf balls' --num_pages=10
+python3 ebay-dl.py 'golf balls' --num_pages=10
 ```
 
 Last but not least, here is the [link](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03) to the course project. 
